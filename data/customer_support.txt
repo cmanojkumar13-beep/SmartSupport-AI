@@ -1,0 +1,54 @@
+
+COMPANY: SmartSupport Demo Store
+
+1. PRODUCTS AVAILABLE
+
+Product: Laptop
+Description: Business and personal-use laptop.
+Price: Rs. 55000
+Availability: In stock.
+
+Product: Smartphone
+Description: Smartphone with 128GB storage and 8GB RAM.
+Price: Rs. 20000
+Availability: In stock.
+
+Product: Wireless Headphones
+Description: Wireless headphones with noise cancellation.
+Price: Rs. 2500
+Availability: In stock.
+
+2. SERVICES
+
+- Product sales
+- Online order tracking
+- Customer support
+- Product replacement
+- Refund assistance
+
+3. PAYMENT METHODS
+
+Customers can pay using:
+- UPI
+- Debit cards
+- Credit cards
+- Net banking
+
+4. DELIVERY
+
+Standard delivery takes 5-7 business days.
+
+5. RETURN POLICY
+
+Products can be returned within 7 days
+of delivery if they meet the return conditions.
+
+6. REFUND POLICY
+
+Approved refunds are processed within
+5-7 business days.
+
+7. CUSTOMER SUPPORT
+
+Customers can contact support through
+the company's customer support portal.

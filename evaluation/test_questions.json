@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the refund policy?",
+    "expected_topic": "refund"
+  },
+  {
+    "question": "How can I contact customer support?",
+    "expected_topic": "contact"
+  },
+  {
+    "question": "What are the payment methods?",
+    "expected_topic": "payment"
+  }
+]
